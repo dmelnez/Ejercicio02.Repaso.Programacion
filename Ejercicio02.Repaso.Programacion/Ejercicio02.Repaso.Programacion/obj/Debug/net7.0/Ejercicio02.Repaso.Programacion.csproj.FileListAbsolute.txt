@@ -1,0 +1,14 @@
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\bin\Debug\net7.0\Ejercicio02.Repaso.Programacion.exe
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\bin\Debug\net7.0\Ejercicio02.Repaso.Programacion.deps.json
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\bin\Debug\net7.0\Ejercicio02.Repaso.Programacion.runtimeconfig.json
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\bin\Debug\net7.0\Ejercicio02.Repaso.Programacion.dll
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\bin\Debug\net7.0\Ejercicio02.Repaso.Programacion.pdb
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\obj\Debug\net7.0\Ejercicio02.Repaso.Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\obj\Debug\net7.0\Ejercicio02.Repaso.Programacion.AssemblyInfoInputs.cache
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\obj\Debug\net7.0\Ejercicio02.Repaso.Programacion.AssemblyInfo.cs
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\obj\Debug\net7.0\Ejercicio02.Repaso.Programacion.csproj.CoreCompileInputs.cache
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\obj\Debug\net7.0\Ejercicio02.Repaso.Programacion.dll
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\obj\Debug\net7.0\refint\Ejercicio02.Repaso.Programacion.dll
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\obj\Debug\net7.0\Ejercicio02.Repaso.Programacion.pdb
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\obj\Debug\net7.0\Ejercicio02.Repaso.Programacion.genruntimeconfig.cache
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio02.Repaso.Programacion\Ejercicio02.Repaso.Programacion\obj\Debug\net7.0\ref\Ejercicio02.Repaso.Programacion.dll
